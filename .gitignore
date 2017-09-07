@@ -15,6 +15,7 @@ files/etc/valibox.version
 /overlay
 /package/feeds
 /package/openwrt-packages
+/files/etc/valibox.version
 key-build*
 *.orig
 *.rej
